@@ -31,12 +31,6 @@
 
 Друг отличен ресурс по темата е безплатното ръководство [A Practical Guide to HTML & CSS](http://learn.shayhowe.com/).
 
-### Ruby on Rails
-
-Много хора препоръчват [Rails for Zombies](http://railsforzombies.org/) (серия безплатни филмчета) и [Rails Tutorial](http://ruby.railstutorial.org/) (безплатна книга). Тези два отговора на въпрос за научаване на Rails в Quora също съдържат добри насоки — [едно](http://bit.ly/learn-rails-1) и [две](http://bit.ly/learn-rails-2).
-
-[RailsCasts](http://railscasts.com/) са серия филмчета, предлагащи добри решения на определени проблеми от практиката на уеб разработчика. Ако сте схванали основите на Rails, тези филмчета ще са ви много полезни. Голяма част от тях са безплатни. Имат и текстов вариант в [AsciiCasts](http://asciicasts.com/).
-
 ### Ruby
 
 Ако искате да дълбаете в Ruby, може да пробвате следните неща:
@@ -45,6 +39,12 @@
 * [Секцията за Ruby в Code Academy](http://www.codecademy.com/tracks/ruby)
 * [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 * Може да посетите [курса по Ruby, който водим във ФМИ](http://fmi.ruby.bg/) зимния семестър
+
+### Ruby on Rails
+
+Много хора препоръчват [Rails for Zombies](http://railsforzombies.org/) (серия безплатни филмчета) и [Rails Tutorial](http://ruby.railstutorial.org/) (безплатна книга). Тези два отговора на въпрос за научаване на Rails в Quora също съдържат добри насоки — [едно](http://bit.ly/learn-rails-1) и [две](http://bit.ly/learn-rails-2).
+
+[RailsCasts](http://railscasts.com/) са серия филмчета, предлагащи добри решения на определени проблеми от практиката на уеб разработчика. Ако сте схванали основите на Rails, тези филмчета ще са ви много полезни. Голяма част от тях са безплатни. Имат и текстов вариант в [AsciiCasts](http://asciicasts.com/).
 
 ### Други
 
