@@ -36,6 +36,10 @@
 Ако искате да дълбаете в Ruby, може да пробвате следните неща:
 
 * [TryRuby.org](http://tryruby.org/)
+* Книгата
+  [Learn to Program](http://pragprog.com/book/ltp2/learn-to-program) -
+  тя е написана за хора, които тепърва се захващат с програмиране и
+  езикът, на който са примерите в нея е Ruby
 * [Секцията за Ruby в Code Academy](http://www.codecademy.com/tracks/ruby)
 * [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 * Може да посетите [курса по Ruby, който водим във ФМИ](http://fmi.ruby.bg/) зимния семестър
