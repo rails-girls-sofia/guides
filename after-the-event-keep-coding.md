@@ -67,3 +67,5 @@
 Презентацията, по която се движехме събота, [може да намерите тук](https://speakerdeck.com/mitio/rails-girls-sofia-31-may-1-june).
 
 До скоро!
+
+![Rails Girls Sofia Friday Hug](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/467543_461236493962144_14916432_o.jpg)
