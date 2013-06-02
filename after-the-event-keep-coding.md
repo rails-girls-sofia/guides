@@ -29,6 +29,8 @@
 
 Поиграйте си в [Code Academy, в сесията за разработка на уеб](http://www.codecademy.com/tracks/web), за да разширите и затвърдите вашите познания за HTML и CSS. Там може да намерите и други сесии, които да са ви в помощ. Дори има [такава за Ruby](http://www.codecademy.com/tracks/ruby).
 
+Друг отличен ресурс по темата е безплатното ръководство [A Practical Guide to HTML & CSS](http://learn.shayhowe.com/).
+
 ### Ruby on Rails
 
 Много хора препоръчват [Rails for Zombies](http://railsforzombies.org/) (серия безплатни филмчета) и [Rails Tutorial](http://ruby.railstutorial.org/) (безплатна книга). Тези два отговора на въпрос за научаване на Rails в Quora също съдържат добри насоки — [едно](http://bit.ly/learn-rails-1) и [две](http://bit.ly/learn-rails-2).
