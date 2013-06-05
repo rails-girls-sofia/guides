@@ -26,7 +26,7 @@
 * Ще опитаме да ви осигурим повече време за експерименти в TryRuby.org и за работа над вашето приложение.
 * Ще идентифицираме и пропуснем определени ненавременни уроци от TryRuby.org.
 
-Ако желаете да допълните нещо, пишете ни на [rails-girls-sofia-organizers@googlegroups.com](mailto:rails-girls-sofia-organizers@googlegroups.com) или попълнете анонимно [формуляра за обратна връзка](https://docs.google.com/a/ddimitrov.name/forms/d/12diNi5-H6MPfzjg6UE5yZaR0ozcpFmAjM66B89wXdlU/viewform). Ще приветстваме всеки от вас, който изяви желание да ни помогне с организацията на следващи събития.
+Ако желаете да допълните нещо, пишете ни на [rails-girls-sofia-organizers@googlegroups.com](mailto:rails-girls-sofia-organizers@googlegroups.com) или попълнете анонимно [формуляра за обратна връзка](https://docs.google.com/a/ddimitrov.name/forms/d/12diNi5-H6MPfzjg6UE5yZaR0ozcpFmAjM66B89wXdlU/viewform). Най-много ще ни хареса да получим вашето предложение за промяна в този текст чрез [pull request в GitHub](https://help.github.com/articles/using-pull-requests). Ще приветстваме всеки от вас, който изяви желание да ни помогне с организацията на следващи събития.
 
 ### Общност
 
