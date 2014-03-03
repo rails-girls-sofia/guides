@@ -219,6 +219,7 @@ Pace:
 ## Ресурси
 
 - Безплатни копия на "Learn Rails" от Daniel Kehoe
+
 	> Visit the web address [learn-rails.com/railsgirls](http://learn-rails.com/railsgirls) and enter the invitation code `RAILSGIRLS` to register and download the ebook.
 - [ExplainShell](http://explainshell.com/) е полезен сайт за обяснение на shell команди
 - Microsoft осигуряват DreamSpark акаунти за всички учащи (студенти, ученици, магистри, докторанти...), кандидатствали за Rails Girls, не само за одобрените.
