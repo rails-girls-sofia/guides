@@ -115,7 +115,17 @@ Pace:
 
 Текстовият редактор, който се препоръчва за събитието, е [Sublime Text](http://www.sublimetext.com/2), дори за Windows. В инсталационното ръководство не се споменава, но е добра идея да сложите и [Package Control](https://sublime.wbond.net/) плъгина за Sublime Text.
 
-Когато се работи под Windows е добре да се настрои Command Prompt-a да бъде малко по-приветлив. [Тук](http://www.akitaonrails.com/2009/01/13/the-best-environment-for-rails-on-windows#.UxZDufmSySp) има обяснение как това може да стане (в секция Personalizing you command prompt). Полезни промени са да се увеличи ширината на прозореца на повече от 80 колони, както и да се направи по-голям scroll buffer-ът.
+Когато се работи под Windows е добре да се настрои Command Prompt-a да бъде малко по-приветлив. Лесен вариант може да намерите [Тук](http://www.hanselman.com/blog/Console2ABetterWindowsCommandPrompt.aspx). Идва с удобен resize и paste, който работи както очаквате. 
+
+Инсталира се така: 
+
+# Сваляме го от [тук](http://sourceforge.net/projects/console/files/latest/download?source=files)
+# Разaрхивираме в удобна папка (hint: C:\console\ )
+# Стартирате Console.exe
+# Настройваме Ctrl + V да копира: 
+## Edit -> Setting -> Hotkeys
+## Намираме Paste и го assign-ваме на Ctrl + V
+# Щастливо започваме да работим.
 
 Опитайте се да оставите участниците да се борят с това, като им помагате при проблеми, за предпочитане като им показвате схема как да се борят с даден клас (инсталационни) проблеми.
 
