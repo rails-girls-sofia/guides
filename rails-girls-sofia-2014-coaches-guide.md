@@ -119,13 +119,13 @@ Pace:
 
 Инсталира се така: 
 
-# Сваляме го от [тук](http://sourceforge.net/projects/console/files/latest/download?source=files)
-# Разaрхивираме в удобна папка (hint: C:\console\ )
-# Стартирате Console.exe
-# Настройваме Ctrl + V да копира: 
-## Edit -> Setting -> Hotkeys
-## Намираме Paste и го assign-ваме на Ctrl + V
-# Щастливо започваме да работим.
+1. Сваляме го от [тук](http://sourceforge.net/projects/console/files/latest/download?source=files)
+2. Разaрхивираме в удобна папка (hint: C:\console\ )
+3. Стартирате Console.exe
+4. Настройваме Ctrl + V да копира: 
+5. Edit -> Setting -> Hotkeys
+6. Намираме Paste и го assign-ваме на Ctrl + V
+7. Щастливо започваме да работим.
 
 Опитайте се да оставите участниците да се борят с това, като им помагате при проблеми, за предпочитане като им показвате схема как да се борят с даден клас (инсталационни) проблеми.
 
