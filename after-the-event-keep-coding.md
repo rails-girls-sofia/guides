@@ -83,8 +83,12 @@
 
 Няма какво да се лъжем, това е най-важното! ;)
 
+### Rails Girls 2014
+
+![Rails Girls Sofia 2014 Friday Hug](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1922352_597142070371585_204475215_n.jpg)
+
+### Rails Girls 2013
+
 Презентацията, по която се движехме събота, [може да намерите тук](https://speakerdeck.com/mitio/rails-girls-sofia-31-may-1-june).
 
-До скоро!
-
-![Rails Girls Sofia Friday Hug](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/467543_461236493962144_14916432_o.jpg)
+![Rails Girls Sofia 2013 Friday Hug](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/467543_461236493962144_14916432_o.jpg)
