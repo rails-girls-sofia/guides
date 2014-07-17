@@ -51,6 +51,7 @@
   [Learn to Program](http://pragprog.com/book/ltp2/learn-to-program) -
   тя е написана за хора, които тепърва се захващат с програмиране и
   езикът, на който са примерите в нея е Ruby
+* Книгата [Introduction to Programming with Ruby](http://www.gotealeaf.com/books/ruby) - още една книга за прохождащи програмисти с примери на Ruby
 * Книгата [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
 * [Секцията за Ruby в Code Academy](http://www.codecademy.com/tracks/ruby)
 * [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
