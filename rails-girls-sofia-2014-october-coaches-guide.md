@@ -180,6 +180,9 @@ Pace:
 - Да се даде реално усещане какво представлява програмирането и да могат участничките да преценят дали им се занимава с това, т.е. доколко е за тях, за да можем по-нататък да помагаме на групата, която наистина го харесва и да станат реални програмисти.
 - Вкарване на две абстракции по естествен път - 1) функции, 2) цикли. След достигане на крайната цел веднъж, се започва дискусия какво им пречеше и какво им беше трудно/досадно. Какво биха искали да се промени. Вкарват се абстракциите функция и/или цикъл. По възможност първо функция, след това още една итерация за цикъл. Допустимо е и двете наведнъж, ако нещата се стекат така.
 
+пс:добро въведение в играта би било: "People think computers are really smart, but they aren't. A computer's a box with an IQ of 5, that just happens to be very good at crunching numbers very quickly. But it doesn't know how to think or how to reason. All it does is exactly what the program tells it to, without regards for the consequences of its actions. If it had legs, you could program it to jump out the nearest window, and it would do exactly that. Then you'd really see the system crash!
+With that in mind, programming is basically about figuring out how to represent real-world problems as numbers for a computer to crunch, and how to explain the issue to a box with an IQ of 5 clearly enough that it will do what you want done."
+
 Разрешени команди (по една на ред, или разделени с точка и запетая):
 
 - `left step`
