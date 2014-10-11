@@ -140,7 +140,8 @@ Pace:
 
 - MVC = Магазин: витрина, служител, складово помещение
 - Бази данни = Excel файл; таблици = sheet в Excel файл
-- HTML = ...
+- HTML, CSS, = плодова торта с различни слоеве [(тук е описано)](http://www.stuffandnonsense.co.uk/archives/web_standards_trifle.html)
+- 
 
 Ако имате добри идеи, правете PR и допълвайте този списък.
 
