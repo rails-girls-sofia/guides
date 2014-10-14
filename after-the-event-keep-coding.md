@@ -4,13 +4,15 @@
 
 ### Обратна връзка
 
-Ще сме ви благодарни да ни дадете обратна връзка с мнението си за събитието и как бихме могли да го направим по-добро следващия път. [Кликнете тук, за да дадете анонимно мнението си](https://docs.google.com/forms/d/1CDJmUPYdMVUO_bZeMyPW3w2zyuJoFFHZUvt5dCKVAWg/viewform).
+Ще сме ви благодарни да ни дадете обратна връзка с мнението си за събитието и как бихме могли да го направим по-добро следващия път. [Кликнете тук, за да дадете анонимно мнението си](https://docs.google.com/forms/d/1YR9oZ3ebideNgdH7QoBO-ItsN0emaHfEf2W2np-DBSM/viewform?usp=send_form).
 
-### Слайдове от Rails Girls Sofia 2014
+### Слайдове от Rails Girls Sofia 3.0
 
-Презентация от [първия ден](https://speakerdeck.com/mitio/rails-girls-sofia-2014-day-1) и от [втория ден](https://speakerdeck.com/mitio/rails-girls-sofia-2014-day-2).
+Презентация от [първия ден](https://speakerdeck.com/mitio/rails-girls-sofia-3-dot-0-day-1) и от [втория ден](https://speakerdeck.com/mitio/rails-girls-sofia-3-dot-0-day-2).
 
 ## Joan on Rails
+
+На събитието имахме две инструкторки, които преди шест месеца бяха участнички. И вие може да постигнете това.
 
 Като начало, силно препоръчваме да изгледате това филмче, в което една участничка от Rails Girls Berlin разказва как в рамките на една година от първото си участие си намира работа като програмист и е вече инструктор в Rails Girls Berlin събитията: [Joan on Rails](http://bit.ly/joan-on-rails) (~30 мин.) В него има страхотни и много практични съвети.
 
@@ -22,7 +24,7 @@
 
 За да затвърдите и разширите наученото по време на уъркшопа, съветваме:
 
-1. Направете отново приложението, [следвайки ръководството](http://guides.railsgirls.com/app/) сами. Отначало.
+1. Направете отново приложението, [следвайки ръководството](http://bit.ly/railsgirlssofia3) сами. Отначало.
 2. Минете всички стъпки в [TryRuby.org](http://tryruby.org/).
 3. Запазете си някъде този удобен "пищов" за Ruby, Rails & командния ред: [http://bit.ly/cheat-rails](http://bit.ly/cheat-rails)
 4. Ако желаете, може да пробвате и другите ръководства, надграждащи вашето приложение "Идейник", например това за [качване на приложението в интернет (безплатно)](http://guides.railsgirls.com/heroku/), [регистрация на потребители](http://guides.railsgirls.com/devise/), [добавяне на коментари](http://guides.railsgirls.com/commenting/), [добавяне на малки версии на качено изображение](http://guides.railsgirls.com/thumbnails/), [работа по дизайна](http://guides.railsgirls.com/design/).
@@ -84,11 +86,15 @@
 
 Няма какво да се лъжем, това е най-важното! ;)
 
-### Rails Girls 2014
+### Rails Girls Sofia 3.0
+
+![Rails Girls Sofia 3.0 Group Photo](http://railsgirls.com/images/rails-girls-sofia-3.0-group-photo.jpg)
+
+### Rails Girls Sofia 2014
 
 ![Rails Girls Sofia 2014 Friday Hug](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1922352_597142070371585_204475215_n.jpg)
 
-### Rails Girls 2013
+### Rails Girls Sofia 2013
 
 Презентацията, по която се движехме събота, [може да намерите тук](https://speakerdeck.com/mitio/rails-girls-sofia-31-may-1-june).
 
