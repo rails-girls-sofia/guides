@@ -2,7 +2,7 @@
 
 This guide is for anyone who wishes to coach in or organize a Rails Girls event.
 
-As a coach, you’ll probably be working with people who may not even be familiar with using their terminal (or had their very first taste of using the terminal at the InstallFest the previos night) and won’t understand intuitively why certain commands are worded the way they are. When you’re teaching beginners, the goal is not necessarily to get through the curriculum, but rather to provide a good grounding in what programming is and how it works — and to get them excited about the possibilities programming offers.
+As a coach, you’ll probably be working with people who may not even be familiar with using their terminal (or had their very first taste of using the terminal at the InstallFest the previous night) and won’t understand intuitively why certain commands are worded the way they are. When you’re teaching beginners, the goal is not necessarily to get through the curriculum, but rather to provide a good grounding in what programming is and how it works — and to get them excited about the possibilities programming offers.
 
 As an organizer, you need to know what the coaches need to know. You have to push them to prepare for the event, because proper preparations are directly related to the quality of the workshop.
 
@@ -38,14 +38,14 @@ Think ahead of time about how you would explain the following:
 
 Preparation is very important and directly correlates to the quality of the workshop.
 
-### Set up an welcoming classroom environnement
+### Set up a welcoming classroom environnement
 
 * Smile :-) but don't be creepy >;-{
 * make eye contact
 * Tell people how long to expect the process to take
 * Admit your ignorance
 * Tell people it's ok to make mistakes
-* Tell people to take breaks when you're frustrated
+* Tell people to take breaks when they (or you) are frustrated
 * Assume that anyone you're teaching to has 0 knowledge but infinite intelligence
 * Check in a lot
 * Use normal language over jargon
@@ -134,7 +134,7 @@ Preparation is very important and directly correlates to the quality of the work
 
 #### What works:
 
-* ask them a question about the material. but how to do this without putting them
+* ask them a question about the material. But how to do this without putting them
 on the spot?
 * ask questions about something that has already been built on top of. Spiral.
 * keep an eye on body language/facial expressions
