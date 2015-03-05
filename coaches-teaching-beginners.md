@@ -45,7 +45,7 @@ Preparation is very important and directly correlates to the quality of the work
 * Tell people how long to expect the process to take
 * Admit your ignorance
 * Tell people it's ok to make mistakes
-* Tell people to take breaks when they're frustrated
+* Tell people to take breaks when they (or you) are frustrated
 * Assume that anyone you're teaching to has 0 knowledge but infinite intelligence
 * Check in a lot
 * Use normal language over jargon
