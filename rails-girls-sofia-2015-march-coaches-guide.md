@@ -15,7 +15,7 @@
 - Прочетете правилата за [How to train a robot](#%D0%98%D0%B3%D1%80%D0%B0-how-to-train-a-robot-1915---2015).
 - Прочетете [In HTML We Trust](#in-html-we-trust).
 - Регистрирайте се в [Nitrous.io](http://nitrous.io) и го разцъкайте. Следвайте [това ръководство](http://railsgirls-my.github.io/nitrous/).
-- Ще се движим по тази презентация: [bit.ly/railsgirlssofia3](http://bit.ly/railsgirlssofia3) ([кодът ѝ в GitHub](https://github.com/rails-girls-sofia/rails-girls-training)).
+- Ще се движим по тази презентация: [bit.ly/railsgirlssofia4](http://bit.ly/railsgirlssofia4) ([кодът ѝ в GitHub](https://github.com/rails-girls-sofia/rails-girls-training)).
 - Ползвайте тези [bit.ly/railsgirlscheatsheets](http://bit.ly/railsgirlscheatsheets).
 
 След това прочетете това ръководство.
@@ -210,7 +210,7 @@ With that in mind, programming is basically about figuring out how to represent 
 
 Вместо да се инсталира необходимия за разработка софтуер, ще ползваме cloud-базираната среда [Nitrous.io](http://nitrous.io).
 
-За регистрацията, отворете [презентацията на събитието](http://bit.ly/railsgirlssofia3) и започнете от първия слайд. В секцията за Ninefold има линк към ръководство за регистрация. Трябва да спрете на слайда "Finishing the setup" (номер пет). Ако ви остане време, може да минете към следващата секция, за HTML и CSS, която е слайд 6.
+За регистрацията, отворете [презентацията на събитието](http://bit.ly/railsgirlssofia4) и започнете от първия слайд. В секцията за Ninefold има линк към ръководство за регистрация. Трябва да спрете на слайда "Finishing the setup" (номер пет). Ако ви остане време, може да минете към следващата секция, за HTML и CSS, която е слайд 6.
 
 **Метафора**: Всеки майстор има нужда от определен набор инструменти и си има собствена работилница, в която твори. Вместо да ви караме да отделяте време, за да се снабдите с всички необходими инструменти и да си обзаведете собствена работилница специално за това събитие, ние ще ви дадем достъп до една готова такава, под наем – това е услугата [Nitrous.io](http://nitrous.io).
 
@@ -282,7 +282,7 @@ With that in mind, programming is basically about figuring out how to represent 
 
 Веднага след tryruby.org се започва работа по приложението.
 
-Ще използваме ръководството в тази презентация: [bit.ly/railsgirlssofia3](http://bit.ly/railsgirlssofia3), вместо стандартното [http://guides.railsgirls.com/app/](http://guides.railsgirls.com/app/). Разликите са основно две – това ръководство използва по-прости scaffold команди (simple_scaffold) и Nitrous.io. Повече подробности за т. нар. [simple_scaffold в тази презентация от няколко слайда](https://docs.google.com/presentation/d/1Ky1xdU-TbmhBVQtAKB9DBOvMy72cg6WtXTnZDVKy8_Y).
+Ще използваме ръководството в тази презентация: [bit.ly/railsgirlssofia4](http://bit.ly/railsgirlssofia4), вместо стандартното [http://guides.railsgirls.com/app/](http://guides.railsgirls.com/app/). Разликите са основно две – това ръководство използва по-прости scaffold команди (simple_scaffold) и Nitrous.io. Повече подробности за т. нар. [simple_scaffold в тази презентация от няколко слайда](https://docs.google.com/presentation/d/1Ky1xdU-TbmhBVQtAKB9DBOvMy72cg6WtXTnZDVKy8_Y).
 
 Продължете от слайда, до който сте стигнали предната вечер. Ако имате да довършвате обяснения за HTML и CSS, продължете от вчера. Може да направите кратък (2-3 мин.) преговор, за да затвърдите някои основни неща. Ако не сте започвали с HTML и CSS, вижте [секцията "In HTML We Trust"](#in-html-we-trust) за напътствия за какво да говорите.
 
