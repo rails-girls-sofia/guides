@@ -4,11 +4,11 @@
 
 ### Обратна връзка
 
-Ще сме ви благодарни да ни дадете обратна връзка с мнението си за събитието и как бихме могли да го направим по-добро следващия път. [Кликнете тук, за да дадете анонимно мнението си](https://docs.google.com/forms/d/1YR9oZ3ebideNgdH7QoBO-ItsN0emaHfEf2W2np-DBSM/viewform?usp=send_form).
+Ще сме ви благодарни да ни дадете обратна връзка с мнението си за събитието и как бихме могли да го направим по-добро следващия път. [Кликнете тук, за да дадете анонимно мнението си](TODO).
 
-### Слайдове от Rails Girls Sofia 3.0
+### Слайдове от Rails Girls Sofia 4.0
 
-Презентация от [първия ден](https://speakerdeck.com/mitio/rails-girls-sofia-3-dot-0-day-1) и от [втория ден](https://speakerdeck.com/mitio/rails-girls-sofia-3-dot-0-day-2).
+Презентация от [първия ден](https://speakerdeck.com/mitio/rails-girls-sofia-4-dot-0-march-2015-day-1) и от [втория ден](https://speakerdeck.com/mitio/rails-girls-sofia-4-dot-0-march-2015-day-2).
 
 ## Joan on Rails
 
@@ -24,7 +24,7 @@
 
 За да затвърдите и разширите наученото по време на уъркшопа, съветваме:
 
-1. Направете отново приложението, [следвайки ръководството](http://bit.ly/railsgirlssofia3) сами. Отначало.
+1. Направете отново приложението, [следвайки ръководството](http://bit.ly/railsgirlssofia4) сами. Отначало.
 2. Минете всички стъпки в [TryRuby.org](http://tryruby.org/).
 3. Запазете си някъде този удобен "пищов" за Ruby, Rails & командния ред: [http://bit.ly/cheat-rails](http://bit.ly/cheat-rails)
 4. Ако желаете, може да пробвате и другите ръководства, надграждащи вашето приложение "Идейник", например това за [качване на приложението в интернет (безплатно)](http://guides.railsgirls.com/heroku/), [регистрация на потребители](http://guides.railsgirls.com/devise/), [добавяне на коментари](http://guides.railsgirls.com/commenting/), [добавяне на малки версии на качено изображение](http://guides.railsgirls.com/thumbnails/), [работа по дизайна](http://guides.railsgirls.com/design/).
@@ -48,6 +48,7 @@
 
 Ако искате да дълбаете в Ruby, може да пробвате следните неща:
 
+* [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org/) на берлинската study група.
 * [TryRuby.org](http://tryruby.org/)
 * Книгата
   [Learn to Program](http://pragprog.com/book/ltp2/learn-to-program) -
@@ -85,6 +86,10 @@
 ## Забавлявайте се
 
 Няма какво да се лъжем, това е най-важното! ;)
+
+### Rails Girls Sofia 4.0
+
+![Rails Girls Sofia 4.0 Friday Hug](TODO)
 
 ### Rails Girls Sofia 3.0
 
