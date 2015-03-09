@@ -97,7 +97,7 @@
 
 ### Rails Girls Sofia 2014
 
-![Rails Girls Sofia 2014 Friday Hug](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1922352_597142070371585_204475215_n.jpg)
+![Rails Girls Sofia 2014 Friday Hug](http://railsgirls.com/images/rails-girls-sofia-2014-friday-hug.jpg)
 
 ### Rails Girls Sofia 2013
 
