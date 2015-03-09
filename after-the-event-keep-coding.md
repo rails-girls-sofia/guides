@@ -89,7 +89,7 @@
 
 ### Rails Girls Sofia 4.0
 
-![Rails Girls Sofia 4.0 Friday Hug](TODO)
+![Rails Girls Sofia 4.0 Friday Hug](http://railsgirls.com/images/sofia/rails-girls-sofia-4.0-march-2015-friday-hug.jpg)
 
 ### Rails Girls Sofia 3.0
 
