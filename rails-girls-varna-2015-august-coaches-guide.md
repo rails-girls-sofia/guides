@@ -13,7 +13,7 @@
 
 - Елате в 09:30 в неделя. Хотел "[Черно море](http://www.chernomorebg.com/)", бул. Сливница 33, зала 1. На втория етаж.
 - Прочетете [In HTML We Trust](#in-html-we-trust).
-- Ще се движим по тази презентация: [bit.ly/railsgirlsvarna1](http://bit.ly/railsgirlsvarna1) ([кодът ѝ в GitHub](TODO)) - прочетете я. Бонус - направете нещата по нея, ако имате инсталирана среда.
+- Ще се движим по тази презентация: [bit.ly/railsgirlsvarna1](http://bit.ly/railsgirlsvarna1) ([кодът ѝ в GitHub](https://github.com/rails-girls-sofia/tutorials/blob/gh-pages/_posts/2015-08-16-sinatra-app-tutorial-in-bulgarian.markdown)) - прочетете я. Бонус - направете нещата по нея, ако имате инсталирана среда.
 - Ползвайте тези [bit.ly/railsgirlscheatsheets](http://bit.ly/railsgirlscheatsheets).
 - Ще имате данни за достъп до Nitrous.io за двете си участнички на имейла. Ако има проблем, намерете Митьо.
 
