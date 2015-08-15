@@ -15,6 +15,7 @@
 - Прочетете [In HTML We Trust](#in-html-we-trust).
 - Ще се движим по тази презентация: [bit.ly/railsgirlsvarna1](http://bit.ly/railsgirlsvarna1) ([кодът ѝ в GitHub](https://github.com/rails-girls-sofia/tutorials/blob/gh-pages/_posts/2015-08-16-sinatra-app-tutorial-in-bulgarian.markdown)) - прочетете я. Бонус - направете нещата по нея, ако имате инсталирана среда.
 - Ползвайте тези [bit.ly/railsgirlscheatsheets](http://bit.ly/railsgirlscheatsheets).
+- Цялата необходима [документация на Sinatra е в това one-page README](http://www.sinatrarb.com/intro.html).
 - Ще имате данни за достъп до Nitrous.io за двете си участнички на имейла. Ако има проблем, намерете Митьо.
 
 След това прочетете това ръководство.
