@@ -1,5 +1,7 @@
 # Rails Girls Varna 1.0 - Coaches Guide
 
+*_Последна редакция: 26 Август 2015_*
+
 Документ с напътствия за инструктори и организатори на [Rails Girls Varna 1.0](http://railsgirls.com/varna-2015-august), 16 август 2015 г., връзки към ресурси, бележки, уточнения и прочее.
 
 **Съдържание:**
@@ -157,6 +159,10 @@ Pace:
 
 Единственото нещо, което може да свалите, е [Notepad2](http://www.flos-freeware.ch/notepad2.html) ([директен линк, x86](http://www.flos-freeware.ch/zip/notepad2_4.2.25_x86.zip)), за да е цветен HTML-ът, който ще показвате в следващата секция.
 
+Други инструменти, които може да ползвате са:
+  1. [Sublime](http://www.sublimetext.com/2)
+  1. [Atom](https://atom.io/)
+
 ### In HTML We Trust
 
 Започваме с кратък лекционен увод в програмирането. След това следва първата workshop сесия, в която ще се работи над приложението. Преди да се започне самото приложение, ще има кратъка (ок. 45-60 мин.) загрявка с HTML и CSS.
@@ -246,11 +252,16 @@ Pace:
 
 Набираме местни инструктори-доброволци.
 
+#### Update (26 Август)
+
+Ако искате да бъдете част от RailsGirlsVarna, моля да посетите нашата Facebook Група: [Facebook: RailsGirlsVarnaStudyGroup](https://www.facebook.com/groups/RailsGirlsVarnaStudyGroup/)
+
 ## Ресурси
 
 - Безплатни копия на "Learn Rails" от Daniel Kehoe
 
 	> Visit the web address [learn-rails.com/railsgirls](http://learn-rails.com/railsgirls) and enter the invitation code `RAILSGIRLS` to register and download the ebook.
+- Официалното [Ruby on Rails ръководство](http://guides.rubyonrails.org/getting_started.html), в което ще се запознаете как да си направите Вашето първо Rails приложение.
 - [Третото издание на The Rails Tutorial](http://news.railstutorial.org/rails_tutorial_3rd_edition/)
 - [ExplainShell](http://explainshell.com/) е полезен сайт за обяснение на shell команди
 - Microsoft осигуряват DreamSpark акаунти за всички учащи (студенти, ученици, магистри, докторанти...), кандидатствали за Rails Girls, не само за одобрените.
