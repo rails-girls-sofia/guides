@@ -155,7 +155,7 @@ Pace:
 
 Ако прецените, че на операционната система на участничката ще е лесно да се инсталира необходимият софтуер, вижте [секцията "Инсталация" в това ръководство](https://github.com/rails-girls-sofia/guides/blob/master/rails-girls-sofia-2014-coaches-guide.md#%D0%98%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D1%86%D0%B8%D1%8F-1915---2000).
 
-Единственото нещо, което може да свалите, е [Notepad2](http://www.flos-freeware.ch/notepad2.html) ([директен линк, x86](http://www.flos-freeware.ch/zip/notepad2_4.2.25_x86.zip)), за да е цветен HTML-ът, който ще показвате в следващата секция.
+Единственото нещо, което може да свалите, е [Notepad2](http://www.flos-freeware.ch/notepad2.html) ([директен линк, x86](http://www.flos-freeware.ch/zip/notepad2_4.2.25_x86.zip)), за да е цветен HTML-ът, който ще показвате в следващата секция. Други инструменти, които може да ползвате са:  [Sublime](http://www.sublimetext.com) и [Atom](https://atom.io/). Вие трябва да решите каквъв редактор ще бъде използван, но отделете няколко минути, в които да обясните какво е среда за разработка, какви налични инструменти за разработка на Ruby on Rails съществуват и защо Вие предпочитате Sublime пред Атом, например.
 
 ### In HTML We Trust
 
@@ -246,11 +246,16 @@ Pace:
 
 Набираме местни инструктори-доброволци.
 
+#### Включи се като инструктор
+
+Ако искате дa продължите да се занимавате, моля да посетите нашата Facebook група: [RailsGirlsVarnaStudyGroup](https://www.facebook.com/groups/RailsGirlsVarnaStudyGroup/)
+
 ## Ресурси
 
 - Безплатни копия на "Learn Rails" от Daniel Kehoe
 
 	> Visit the web address [learn-rails.com/railsgirls](http://learn-rails.com/railsgirls) and enter the invitation code `RAILSGIRLS` to register and download the ebook.
+- Официалното [Ruby on Rails ръководство](http://guides.rubyonrails.org/getting_started.html), в което ще се запознаете как да си направите Вашето първо Rails приложение.
 - [Третото издание на The Rails Tutorial](http://news.railstutorial.org/rails_tutorial_3rd_edition/)
 - [ExplainShell](http://explainshell.com/) е полезен сайт за обяснение на shell команди
 - Microsoft осигуряват DreamSpark акаунти за всички учащи (студенти, ученици, магистри, докторанти...), кандидатствали за Rails Girls, не само за одобрените.
