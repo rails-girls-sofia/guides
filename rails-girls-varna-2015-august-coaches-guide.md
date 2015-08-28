@@ -1,7 +1,5 @@
 # Rails Girls Varna 1.0 - Coaches Guide
 
-*_Последна редакция: 26 Август 2015_*
-
 Документ с напътствия за инструктори и организатори на [Rails Girls Varna 1.0](http://railsgirls.com/varna-2015-august), 16 август 2015 г., връзки към ресурси, бележки, уточнения и прочее.
 
 **Съдържание:**
@@ -157,11 +155,7 @@ Pace:
 
 Ако прецените, че на операционната система на участничката ще е лесно да се инсталира необходимият софтуер, вижте [секцията "Инсталация" в това ръководство](https://github.com/rails-girls-sofia/guides/blob/master/rails-girls-sofia-2014-coaches-guide.md#%D0%98%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D1%86%D0%B8%D1%8F-1915---2000).
 
-Единственото нещо, което може да свалите, е [Notepad2](http://www.flos-freeware.ch/notepad2.html) ([директен линк, x86](http://www.flos-freeware.ch/zip/notepad2_4.2.25_x86.zip)), за да е цветен HTML-ът, който ще показвате в следващата секция.
-
-Други инструменти, които може да ползвате са:
-  1. [Sublime](http://www.sublimetext.com/2)
-  1. [Atom](https://atom.io/)
+Единственото нещо, което може да свалите, е [Notepad2](http://www.flos-freeware.ch/notepad2.html) ([директен линк, x86](http://www.flos-freeware.ch/zip/notepad2_4.2.25_x86.zip)), за да е цветен HTML-ът, който ще показвате в следващата секция. Други инструменти, които може да ползвате могат да бъдат: [Sublime](http://www.sublimetext.com) и [Atom](https://atom.io/).  Вие трябва да решите каквъв редактор ще бъде използван, но отделете няколко минути, в които да обясните какво е среда за разработка, какви налични инструменти за разработка на Ruby on Rails съществуват и защо Вие предпочитате Sublime пред Атом, например.
 
 ### In HTML We Trust
 
@@ -252,9 +246,9 @@ Pace:
 
 Набираме местни инструктори-доброволци.
 
-#### Update (26 Август)
+#### Включи се като инструктор
 
-Ако искате да бъдете част от RailsGirlsVarna, моля да посетите нашата Facebook Група: [Facebook: RailsGirlsVarnaStudyGroup](https://www.facebook.com/groups/RailsGirlsVarnaStudyGroup/)
+Ако искате дa продължите да се занимавате, моля да посетите нашата Facebook група: RailsGirlsVarnaStudyGroup](https://www.facebook.com/groups/RailsGirlsVarnaStudyGroup/)
 
 ## Ресурси
 
