@@ -66,6 +66,7 @@
 * [Секцията за Ruby в Code Academy](http://www.codecademy.com/tracks/ruby)
 * [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+* Дзен подход към Ruby от [Ruby Monk](https://rubymonk.com/)
 * Може да посетите [курса по Ruby, който водим във ФМИ](http://fmi.ruby.bg/) зимния семестър
 
 ### Sinatra
