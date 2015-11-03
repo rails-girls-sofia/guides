@@ -50,7 +50,7 @@
 - Mtel
 - VMWare
 - Questers
-- Core Runners
+- Code Runners
 
 И други.
 
