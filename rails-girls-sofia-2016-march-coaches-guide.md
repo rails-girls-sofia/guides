@@ -17,7 +17,7 @@
 2. Преди събитието създайте по един безплатен акаунт за всяка от участничките ви в [Nitrous.io](http://nitrous.io) и вътре създайте нов Ruby проект. Данните за достъп до Nitrous ще дадете на участничките. Ще се изисква потвърждение на имейла. Подробности и съвети за това има по-долу, в секцията ["Среда за разработка"](#nitrous).
 3. Прочетете правилата за [How to train a robot](#how-to-train-a-robot).
 4. Прочетете [In HTML We Trust](#in-html-we-trust).
-5. Ще се движим по тази презентация и ще правим елементарно уеб приложение с Ruby и Sinatra: [http://bit.ly/railsgirlssofia6](bit.ly/railsgirlssofia6) ([кодът ѝ в GitHub](https://github.com/rails-girls-sofia/tutorials/blob/gh-pages/_posts/2015-08-16-sinatra-app-tutorial-in-bulgarian.markdown)) - прочетете я. Цялата необходима [документация на Sinatra е в това one-page README](http://www.sinatrarb.com/intro.html). Ползвайте и тези [bit.ly/railsgirlscheatsheets](bit.ly/railsgirlscheatsheets).
+5. Ще се движим по тази презентация и ще правим елементарно уеб приложение с Ruby и Sinatra: [bit.ly/railsgirlssofia6](http://bit.ly/railsgirlssofia6) ([кодът ѝ в GitHub](https://github.com/rails-girls-sofia/tutorials/blob/gh-pages/_posts/2015-08-16-sinatra-app-tutorial-in-bulgarian.markdown)) - прочетете я. Цялата необходима [документация на Sinatra е в това one-page README](http://www.sinatrarb.com/intro.html). Ползвайте и тези [bit.ly/railsgirlscheatsheets](http://bit.ly/railsgirlscheatsheets).
 
 След това прочетете това ръководство.
 
