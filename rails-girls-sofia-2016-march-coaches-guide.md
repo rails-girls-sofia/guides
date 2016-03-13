@@ -289,7 +289,7 @@ PS: Добро въведение в играта би било:
 
 ```html
 <!DOCTYPE html>
-    <html>
+<html>
     <head>
         <title>Dimitar Dimitrov</title>
     </head>
