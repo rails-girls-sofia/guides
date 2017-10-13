@@ -157,7 +157,7 @@ Pace:
 
 - MVC = Магазин: витрина, служител, складово помещение
 - Бази данни = Excel файл; таблици = sheet в Excel файл
-- HTML, CSS = тяло (структура и съдържание) и тоалет (визия); или плодова торта с различни слоеве [(тук е описано)](http://www.stuffandnonsense.co.uk/archives/web_standards_trifle.html)
+- HTML, CSS = тяло (структура и съдържание) и тоалет (визия); или плодова торта с различни слоеве [(тук е описано)](https://stuffandnonsense.co.uk/blog/about/web_standards_trifle)
 
 Ако имате добри идеи, предложете ги като промяна с pull request към това хранилище.
 
