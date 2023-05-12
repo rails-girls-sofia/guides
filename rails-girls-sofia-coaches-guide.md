@@ -132,7 +132,11 @@ Rails Girls Sofia събитията обикновено се случват п
 - Don't say "any questions?"; say "What questions do you have?" and then mentally count to at least five waiting for a question.
 - Get the students talking to each other.
 
-How to introduce yourself to the class:
+
+
+
+
+introduce yourself to the class:
 
 - tell your story and tell why you like programming and teaching (but **beware of bragging!**)
 - tell why you care! Why are you getting up on saturday morning to come in here?
@@ -242,8 +246,6 @@ Pace:
 Време: **около 30 минути**
 
 След откриването преминаваме към играта "[How to train a robot](http://dira.ro/images/RailsGirls/robots%20at%20work.jpg)". Презентаторът ще обясни правилата на участничките, но се очаква всички инструктори вече да ги знаят.
-
-Идеята за играта е взаимствана от [тук](http://dira.ro/2013/04/29/the-robot-game-at-railsgirls-krakow). Кратка презентация за играта може да [видите тук](http://dira.ro/presentations/RailsGirls%20Krakow/presentation.pdf).
 
 Накратко, участничките пишат съвкупност от команди на хартия, формиращи програми. Командите са предварително дефинирани. Командите управляват инструктора, който играе ролята на робот и се движи в "лабиринт", очертан с тиксо на пода. Роботът разбира **само** предварително дефинираните команди, само в определен ред. Трябва да са изрично разписани, не могат да се използват съкращения и неща като "... x 2". Роботът "хвърля изключения" (вие преценете как) при изчерпване на програмата, преди достигнане на целта (хартиено кексче), удар в стена, неправилна последователност на командите (вж. по-долу) и прочее. След хвърляне на изключение започвате отначало. Напомняте, че да се греши е напълно окей и е част от процеса.
 
